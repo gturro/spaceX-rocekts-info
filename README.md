@@ -8,6 +8,13 @@ This is a simple project showcasing the use of Vue.js and API calls to fetch and
 - Display a list of rockets on the main page
 - Clicking on a rocket in the list navigates to a detailed page with additional information about the selected rocket
 
+
+## Screenshots
+Rocket List           |  Rocket Viewer
+:-------------------------:|:-------------------------:
+![](/screenshots/rocketGarden.jpg)  |  ![](/screenshots/rocketViewer.jpg)
+
+
 ## Prerequisites
 
 Before running this project, make sure you have the following prerequisites installed:
@@ -20,7 +27,7 @@ Before running this project, make sure you have the following prerequisites inst
 1. Clone this repository:
 
   ```bash
-  git clone <repository-url>
+  git clone https://github.com/gturro/spaceX-rocekts-info.git
   ```
   
 2. Navigate to the project directory:
