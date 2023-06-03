@@ -53,6 +53,3 @@ npm run serve
 
 ### API Integration
 This project utilizes the SpaceX API to fetch data about rockets. The API endpoint used is https://api.spacexdata.com/v4/rockets/. The SpaceXService module in the project handles the API integration and provides methods to fetch the required data.
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
